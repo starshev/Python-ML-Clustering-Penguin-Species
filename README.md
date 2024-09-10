@@ -8,4 +8,4 @@ As a consultant for a scientific organization that works to support and sustain 
   
 EDA, Data Cleaning and Feature Engineering with Python  
 Data Visualization with Seaborn  
-ML Clustering model building and evaluation (k-means)  
+ML Clustering (k-means) model building and evaluation using Python  
