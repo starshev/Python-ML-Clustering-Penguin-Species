@@ -1,4 +1,4 @@
-# Clustering with Python · Penguin Colonies
+# K-Means with Python · Clustering Penguin Species
 
 ### Project Overview
 
