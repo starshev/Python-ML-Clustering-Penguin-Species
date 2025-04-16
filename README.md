@@ -1,17 +1,15 @@
-# K-Means with Python · Clustering Penguin Species
+# Clustering with Python for Penguin Species Analysis
 
-### Project Overview
+### Task  
+Perform EDA and use K-Means clustering to explore whether penguins of the same species differ in physical traits by sex, regardless of location. Focus on data cleaning, feature engineering, and model building to uncover patterns.
 
-Conducted exploratory data analysis (EDA) and applied the K-means algorithm to examine whether penguins of the same species exhibit different physical characteristics based on sex, regardless of their location. The project included data cleaning, feature engineering, and building a clustering model to identify patterns and insights.
+### Skills  
+Exploratory data analysis, data cleaning, feature engineering with Python, data visualization with Seaborn, K-Means clustering model development and evaluation.
 
-### Key Skills
+# Кластеризация с использованием Python для анализа популяции пингвинов
 
-EDA, data cleaning and feature engineering with Python, data visualization with Seaborn, ML clustering (K-means) model building and evaluation using Python.
+### Задача  
+Выполнить исследовательский анализ данных и применить кластеризацию K-Means для изучения различий физических характеристик пингвинов одного вида в зависимости от пола, вне зависимости от местоположения. Сосредоточиться на очистке данных, инженерии признаков и построении модели.
 
-### Описание проекта
-
-Проведён исследовательский анализ данных и применена методика кластеризации K-средних для изучения, показывают ли пингвины одного вида различные физические характеристики в зависимости от пола, независимо от их местоположения. Проект включал очистку данных, инженерию предикторов и построение модели кластеризации для выявления закономерностей.
-
-### Ключевые навыки
-
-Исследовательский анализ данных, очистка данных и инженерия предсказательных переменных с использованием Python, визуализация данных с использованием Seaborn, построение и оценка модели машинного обучения (кластеризация K-средних) с использованием Python.
+### Навыки  
+Исследовательский анализ данных, очистка данных, инженерия признаков с использованием Python, визуализация данных с использованием Seaborn, построение и оценка модели кластеризации по алгоритму K-Means.
