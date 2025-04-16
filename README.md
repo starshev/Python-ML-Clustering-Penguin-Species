@@ -1,4 +1,4 @@
-# Machine Learning with Python for Clustering Penguin Species
+## Machine Learning with Python for Clustering Penguin Species
 
 ### Task  
 Perform EDA and use K-Means clustering to explore whether penguins of the same species differ in physical traits by sex, regardless of location. Focus on data cleaning, feature engineering, and model building to uncover patterns.
@@ -6,7 +6,7 @@ Perform EDA and use K-Means clustering to explore whether penguins of the same s
 ### Skills  
 Exploratory data analysis, data cleaning, feature engineering with Python, data visualization with Seaborn, K-Means clustering model development and evaluation.
 
-# Машинное обучение с использованием Python для кластеризации особей пингвинов
+## Машинное обучение с использованием Python для кластеризации особей пингвинов
 
 ### Задача  
 Выполнить исследовательский анализ данных и применить кластеризацию K-Means для изучения различий физических характеристик пингвинов одного вида в зависимости от пола, вне зависимости от местоположения. Сосредоточиться на очистке данных, инженерии признаков и построении модели.
